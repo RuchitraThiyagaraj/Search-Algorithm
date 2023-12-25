@@ -98,10 +98,23 @@ else:
     print("Element found at index: ",result)
 ```
 ## Sample Input and Output
+![image](https://github.com/RuchitraThiyagaraj/Search-Algorithm/assets/154776996/409e768d-877e-40b0-9634-989df781b7c4)
+</BR>
+</BR>
+![image](https://github.com/RuchitraThiyagaraj/Search-Algorithm/assets/154776996/a0324745-95d7-4ac6-a311-73d782e9d64b)
+</br>
+</br>
+![image](https://github.com/RuchitraThiyagaraj/Search-Algorithm/assets/154776996/47f1b2c0-4fbc-42c8-8f4f-dec2e9cff827)
+</br>
+</br>
 
-
-
-
+![image](https://github.com/RuchitraThiyagaraj/Search-Algorithm/assets/154776996/882f2910-bbba-4ef7-a47a-de05c55ce493)
+</br>
+</br>
+![image](https://github.com/RuchitraThiyagaraj/Search-Algorithm/assets/154776996/6c0f2be8-4081-47bb-ba9d-cd32b5917705)
+</br>
+</br>
+![image](https://github.com/RuchitraThiyagaraj/Search-Algorithm/assets/154776996/c816a884-f2e5-41be-8c1a-3440ccfb5441)
 
 
 ## Result
